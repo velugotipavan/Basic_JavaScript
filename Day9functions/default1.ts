@@ -1,0 +1,34 @@
+function drivingtest(name : string , eligible = "Right to drive") 
+{
+let age : number = 32;
+if(age > 17)
+ {
+    console.log(" he is now " + eligible);
+  }
+else 
+  {
+        console.log("Please sit in the house")
+  }
+}
+
+drivingtest("Pavan");
+//  he is now Right to drive
+
+
+/*
+function drivingtest(name: string, eligible: string = "Right to drive")
+ {
+    let age: number = 32;
+
+    if (age > 17) 
+        {
+        console.log(name + " is now " + eligible);
+        } 
+        else 
+        {
+        console.log(name + " please sit in the house");
+        }
+}
+
+drivingtest("Pavan"); //Pavan is now Right to drive
+*/
