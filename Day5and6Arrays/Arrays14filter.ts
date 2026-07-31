@@ -4,8 +4,11 @@ console.log(h*3) // 21
 console.log(h % 3); //1 reminder bhagafalam */
 
 // not dividing with out 4 number 
+
 let myfancy : number[] = [45, 88,2 , 8, 7];
-let withoutfour : number[] = myfancy.filter(w => w%4 !=0);
+
+let withoutfour : number[] = myfancy.filter(w => w%4 != 0);
+
 console.log(withoutfour); // [ 45, 2, 7 ]
 
 //how to find reminder

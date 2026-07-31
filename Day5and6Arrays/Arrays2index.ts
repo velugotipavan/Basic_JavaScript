@@ -1,7 +1,11 @@
  let playdata1 : string[] = [10 , "sachin" , 42 , true , "mumbai"];
-console.log(playdata1);
- // console.log(playdata1[1]);
-// console.log(playdata1.indexOf(1));
+console.log(playdata1);   
+
+//  [ 10, 'sachin', 42, true, 'mumbai' ]
+
+  
+  console.log(playdata1[1]);      //mumbai
+ console.log(playdata1.indexOf("mumbai"));   //4
 
 
 /*
@@ -17,4 +21,4 @@ console.log(playdata3[2]);
 
 // besed upon the element name we need to find the Index number
 
-
+*/

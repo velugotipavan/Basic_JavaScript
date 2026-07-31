@@ -4,6 +4,8 @@ console.log(age);
 let name = "pavan";  // string
 console.log(name);
 
+console.log(typeof name);
+
 let matchwin = "True";  //Boolean
 console.log(matchwin);
 
@@ -17,6 +19,7 @@ const village = "null"; // null
 console.log(village);
 
 const amount = "undefined"; // undefined
+
 console.log(amount);
 
 

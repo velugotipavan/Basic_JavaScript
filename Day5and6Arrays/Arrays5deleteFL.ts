@@ -3,7 +3,13 @@ let animals2 : string[] = ["Fish", "France", "Hippopotamus"];
 animals2.shift();
 console.log(animals2);
 
-let animals2 : string[] = ["Fish", "France", "Hippopotamus"];
+// [ 'France', 'Hippopotamus' ]
+
+
+
+let animals3 : string[] = ["Fish", "France", "Hippopotamus"];
 // deleteing the last elements
-animals2.pop();
-console.log(animals2);
+animals3.pop();
+console.log(animals3);
+
+//[ 'Fish', 'France' ]
