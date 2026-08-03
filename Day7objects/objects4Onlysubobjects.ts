@@ -1,3 +1,6 @@
+// All sub objects/ specific sub objects
+
+
 interface chairinfo 
 {
 height : number,

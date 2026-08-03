@@ -1,3 +1,5 @@
+// deleting specific subobjects
+
 interface chairinfo 
 {
 height : number,
