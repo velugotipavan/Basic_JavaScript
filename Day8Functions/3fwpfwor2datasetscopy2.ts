@@ -13,10 +13,9 @@ function hello(): void
 }
 student(35, "pavan", true, 19031988, "uppalapadu"); 
 console.log("------------------------------")
-console.log(hello());
+console.log(hello());     // no need console.log because no return type
 
-/*
-Hai iam a student
+/*Hai iam a student
 ------------------------------
  Hai Iam hello function
 undefined

@@ -6,10 +6,10 @@ function mydata (name : string, myaadhar? : number, pan? : string)
     }
     else
     {
-     console.log("Iam in abank and providing mu Aadhar and Pancard");
+     console.log("Iam in abank and providing my Aadhar and Pancard");
     }
 
 }
 
 mydata("pavan", 55505 , "Alzpv");
-//Iam in abank and providing mu Aadhar and Pancard
+//Iam in abank and providing my Aadhar and Pancard

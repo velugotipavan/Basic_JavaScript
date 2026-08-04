@@ -15,7 +15,7 @@ function school() : string
   let schoolpincode : number = 505501;
   const k : string = "King"
   //return k+student+schoolpincode;     // King431505501
-  return k + " " +student + " " +schoolpincode;      //King 431 505501
+  return k +  " " +student + " " +schoolpincode;      //King 431 505501
    }
 console.log(school()); 
 
